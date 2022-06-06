@@ -1,5 +1,6 @@
 # Desafio de Projeto - Git/GitHub da DIO
-<img src="C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20220604162824983.png" alt="image-20220604162824983" style="zoom: 25%;" />
+(https://github.com/ContiRodrigues/dio-desafio-github-primeiro-repositorio/blob/main/Logo%20TQI%20Bootcamp%20DIO.png)
+
 
 
 
