@@ -1,5 +1,7 @@
 # Desafio de Projeto - Git/GitHub da DIO
-(https://github.com/ContiRodrigues/dio-desafio-github-primeiro-repositorio/blob/main/Logo%20TQI%20Bootcamp%20DIO.png)
+<p align="center">
+  <https://github.com/ContiRodrigues/dio-desafio-github-primeiro-repositorio/blob/main/Logo%20TQI%20Bootcamp%20DIO.png>
+    </p>
 
 
 
