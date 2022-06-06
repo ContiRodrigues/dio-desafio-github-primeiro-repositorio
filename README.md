@@ -1,10 +1,7 @@
 # Desafio de Projeto - Git/GitHub da DIO
 <p align="center">
-  <https://github.com/ContiRodrigues/dio-desafio-github-primeiro-repositorio/blob/main/Logo%20TQI%20Bootcamp%20DIO.png>
-    </p>
-
-
-
+  <img src="https://user-images.githubusercontent.com/106720974/172080330-3f404ef0-acc1-4a06-86ea-3549e3c694fa.png" width="300px" />
+  </p>
 
 ## :computer:  Sobre
 
@@ -43,4 +40,6 @@ Inicialmente, serão os conhecimentos mais básicos apreendidos, e em seguida, g
 [Sintaxe Básica Markedown](https://www.markedownguide.org/basic-syntax/)
 
 [Suporte Técnico DIO](https://help.dio.me)
+
+[Adicionar Img no Readme](https://www.youtube.com/watch?v=oMFiGEZ6UlQ)
 
